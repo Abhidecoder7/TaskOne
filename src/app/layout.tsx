@@ -5,7 +5,7 @@ import Headers from '../components/header'
 import SearchBar from '../components/SearchBar'
 import Catologs from '../components/catalogs'
 import ImageSlider from '../components/imageSlider'
-import SearchComponent from "@/components/SearchComponent";
+
 
 const inter = Inter({ subsets: ["latin"] });
 
